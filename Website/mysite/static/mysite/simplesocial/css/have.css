@@ -1,0 +1,12 @@
+body {
+  background-color:#000080;
+  color: white;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h1 {text-align: center;
+margin: 100px 200px 0px 200px;}
+h2 {text-align: center;
+margin: 0px 200px 5px 200px;}
+h3 {text-align: center;
+margin: 5px 200px 0px 200px;}
