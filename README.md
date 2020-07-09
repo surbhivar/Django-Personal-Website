@@ -1,2 +1,2 @@
 # Django-Personal-Website
-For use in Django Deployment on pythonanywhere.com
+For deploying a django based app on pythonanywhere.com
