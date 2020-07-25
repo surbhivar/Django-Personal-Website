@@ -1,2 +1,2 @@
 # Django-Personal-Website
-For deploying a django based app on www.pythonanywhere.com website hosting site.
+For deploying my personal website, which is a django based app on www.pythonanywhere.com, a website hosting site.
